@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/103/trunk/libxadisk/xen
+END
+block-logaio.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/103/trunk/libxadisk/xen/block-logaio.c
+END
+tapdisk.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/103/trunk/libxadisk/xen/tapdisk.h
+END
+block-logsync.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/103/trunk/libxadisk/xen/block-logsync.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/103/trunk/libxadisk/xen/Makefile
+END

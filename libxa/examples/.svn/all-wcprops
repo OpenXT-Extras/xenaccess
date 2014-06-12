@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/203/trunk/libxa/examples
+END
+module-list.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/203/trunk/libxa/examples/module-list.c
+END
+map-symbol.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/162/trunk/libxa/examples/map-symbol.c
+END
+process-list-file.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/157/trunk/libxa/examples/process-list-file.c
+END
+process-data.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/162/trunk/libxa/examples/process-data.c
+END
+map-addr.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/162/trunk/libxa/examples/map-addr.c
+END
+process-list.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/203/trunk/libxa/examples/process-list.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/155/trunk/libxa/examples/Makefile.am
+END
+dump-memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/162/trunk/libxa/examples/dump-memory.c
+END

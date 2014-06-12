@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/218/trunk/libxa
+END
+xenaccess.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/155/trunk/libxa/xenaccess.pc.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/211/trunk/libxa/configure.ac
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/104/trunk/libxa/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/213/trunk/libxa/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/40/trunk/libxa/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/105/trunk/libxa/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/6/trunk/libxa/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/41/trunk/libxa/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/83/trunk/libxa/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/36/trunk/libxa/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/204/trunk/libxa/README
+END

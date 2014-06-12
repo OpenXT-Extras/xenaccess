@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/103/trunk/libxadisk
+END
+xadisk_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/103/trunk/libxadisk/xadisk_parse.h
+END
+xadisk_linux_ext2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/103/trunk/libxadisk/xadisk_linux_ext2.c
+END
+make.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/103/trunk/libxadisk/make.sh
+END
+xadisk_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/103/trunk/libxadisk/xadisk_hash.c
+END
+monitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/103/trunk/libxadisk/monitor.c
+END
+xadisk.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/103/trunk/libxadisk/xadisk.h
+END
+xadisk_global.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/103/trunk/libxadisk/xadisk_global.h
+END
+xadisk_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/103/trunk/libxadisk/xadisk_core.c
+END
+xadisk_hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/103/trunk/libxadisk/xadisk_hash.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/103/trunk/libxadisk/README
+END
+xadisk_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/103/trunk/libxadisk/xadisk_parse.c
+END
