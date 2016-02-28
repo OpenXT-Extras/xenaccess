@@ -1,0 +1,20 @@
+---------------------------------------------------------
+                                                   _ _ 
+                                                  (_) |
+__  _____ _ __   __ _  ___ ___ ___  ___ ___   __ _ _| |_
+\ \/ / _ \ '_ \ / _` |/ __/ __/ _ \/ __/ __| / _` | | __|
+ >  <  __/ | | | (_| | (_| (_|  __/\__ \__ \| (_| | | |_
+/_/\_\___|_| |_|\__,_|\___\___\___||___/___(_)__, |_|\__|
+                                              __/ |
+                                             |___/
+---------------------------------------------------------
+
+This is the remnants of an effort to introduce VM introspection in
+XenClient/OpenXT. It is not in use and is being mothballed for now.
+
+The additional patches and recipe can be found in the oebits dir.
+
+Most of this is a mirror of another project:
+
+http://www.xenproject.org/directory/directory/projects/79-xenaccess.html
+https://code.google.com/archive/p/xenaccess/downloads
